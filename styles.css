@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+
+
+html {
+    background-color: #d5e1ef;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    max-width: 1440px;
+    width: 450px;
+    margin: 100px auto;
+    justify-content: center;
+   
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 5%;
+
+}
+
+.barcode img {
+    border-radius: 5%;
+    width: 450px;
+    padding: auto;
+    /*width: 400px; */
+}
+
+h2 {
+    padding: 15px;
+    font-weight: 700;
+}
+
+p {
+    padding: 0px 20px 20px;
+    font-weight: 400;
+    color: hsl(218, 44%, 22%);
+
+
+}
